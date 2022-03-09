@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+    background-image: url(img/burj_dubai_skyscrapers_uae-1920x1200.jpg);
+}
+.logo{
+    width: 100px;
+    margin: 20px;
+    position: absolute;
+    align-content: center;
+}
